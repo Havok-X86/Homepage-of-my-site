@@ -14,3 +14,10 @@
     width: 100%;
     z-index: 99;
 }
+
+
+#Astl{
+    width: 100%;
+    transform: translateX(-10%);
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'C64 Pro';
+    src: url(../src/assets/fonts/C64_Pro-STYLE.ttf);
+}
+
+#Basic{
+    background-color: #40318D;
+    display: flex;
+    position: fixed;
+    font-size: 200%;
+    font-family: 'C64 Pro';
+    color: #7869C4;
+    height: 100%;   
+    width: 100%;
+    z-index: 99;
+}
